@@ -1339,6 +1339,8 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     uceShimService \
     WfdService \
+    HotwordEnrollmentOKGoogleHEXAGON \
+    HotwordEnrollmentXGoogleHEXAGON \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
