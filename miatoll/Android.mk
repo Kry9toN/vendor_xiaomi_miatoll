@@ -1,4 +1,5 @@
 # Copyright (C) 2020-2021 The LineageOS Project
+# Copyright (C) 2020-2021 The KomodoOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -16,6 +17,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(TARGET_DEVICE),miatoll)
+ifeq ($(TARGET_DEVICE),miatoll)
 
 endif

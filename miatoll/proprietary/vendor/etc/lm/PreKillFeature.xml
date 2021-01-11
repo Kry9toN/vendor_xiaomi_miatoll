@@ -42,12 +42,6 @@
 
                 <Trigger>
                     <Primary>true</Primary>
-                    <AsyncId>VENDOR_HINT_FIRST_LAUNCH_BOOST</AsyncId>
-                    <AsyncType>102</AsyncType>
-                </Trigger>
-
-                <Trigger>
-                    <Primary>true</Primary>
                     <AsyncId>VENDOR_HINT_KILL</AsyncId>
                     <AsyncType>0</AsyncType>
                 </Trigger>
